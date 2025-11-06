@@ -1,4 +1,4 @@
-# EDA Heart Diseases Project 🫀💻
+# Visualization Practice with Heart Diseases Dataset 🫀💻
 
 <p align="center">
   <img src="data/Cure-for-cardiovascular-diseases-1200x675.jpg" width="500"/>
